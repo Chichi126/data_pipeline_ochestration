@@ -1,0 +1,5 @@
+# Ignore all files or directories with the name "terraform"
+*terraform*
+
+# Ignore the "utils/aws.py" file
+utils/aws.py
